@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/bk-bloom/deploy-prac/static/js/main.c8482dec.js",
+    "main.css": "/bk-bloom/deploy-prac/static/css/main.073c9b0a.css",
+    "main.js": "/bk-bloom/deploy-prac/static/js/main.6dbd9532.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/bk-bloom/deploy-prac/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/bk-bloom/deploy-prac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bk-bloom/deploy-prac/index.html",
-    "main.c8482dec.js.map": "/bk-bloom/deploy-prac/static/js/main.c8482dec.js.map"
+    "main.073c9b0a.css.map": "/bk-bloom/deploy-prac/static/css/main.073c9b0a.css.map",
+    "main.6dbd9532.js.map": "/bk-bloom/deploy-prac/static/js/main.6dbd9532.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/bk-bloom/deploy-prac/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c8482dec.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6dbd9532.js"
   ]
 }

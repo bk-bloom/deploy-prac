@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bk-bloom/deploy-prac/static/js/main.c8482dec.js",
+    "index.html": "/bk-bloom/deploy-prac/index.html",
+    "main.c8482dec.js.map": "/bk-bloom/deploy-prac/static/js/main.c8482dec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8482dec.js"
+  ]
+}
